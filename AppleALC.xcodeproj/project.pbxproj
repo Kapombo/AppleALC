@@ -1,3 +1,4 @@
+/* For scanning purposes */
 // !$*UTF8*$!
 {
 	archiveVersion = 1;
