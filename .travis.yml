@@ -1,4 +1,4 @@
-language: cpp --6
+language: cpp --7
 
 env:
   global:
